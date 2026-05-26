@@ -3,9 +3,9 @@ A simple calculator written in Python that allows calculating multiplication, di
 ## availble languages
 english and persian
 ### created by
-powerful392
+invincible627
 #### profile github link
-https://github.com/powerful392
+https://github.com/invincible627
 
 
 # ماشین حساب ساده
@@ -13,6 +13,6 @@ https://github.com/powerful392
 ## زبانهای در دسترس
 انگلیسی و فارسی
 ### ساخته شده توسط
-powerful392
+invincible627
 #### لینک پروفایل گیتهاب
-https://github.com/powerful392
+https://github.com/invincible627
